@@ -1,0 +1,113 @@
+#barra{
+    height: 150px;
+    background-color: #ffffff; 
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 20px;
+  
+}
+
+#barra img {
+    width: 25px;
+}
+
+div #barra{ 
+    width: 100px;
+}
+
+#logo img{
+    width: 100%;
+    height: 100%;
+}
+
+
+#logo{
+    width: 600px;
+    height: 100px;
+}
+
+
+.home{
+    margin-left: 20px;
+}
+
+a{color: black;
+text-decoration: none;}
+
+body{
+    background-image: url(benjamin-hazael-rojas-garcia-VZ9zJ9wk2AE-unsplash.jpg);
+    background-size: 100% ;
+}
+
+
+#btn{
+    background-color: rgb(138, 80, 65);
+    color: #ffffff;
+    width: 300px;
+    height: 60px;
+    font-size: 22px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+#btn1{
+    background-color: rgb(138, 80, 65);
+    color: #ffffff;
+    width: 300px;
+    height: 60px;
+    font-size: 22px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top:  20px;
+   
+}
+
+#back{
+    width: 1500px;
+    height: 600px;
+    background-color: rgb(22, 180, 180);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 200px;
+
+
+}
+
+#back2{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(22, 180, 180);
+    margin-left: 200px;
+
+
+}
+
+#img2{
+    margin-left: 70px;
+}
+
+
+#back3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+
+
+#text{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+
+#img3{
+    margin-top: 30px;
+}
